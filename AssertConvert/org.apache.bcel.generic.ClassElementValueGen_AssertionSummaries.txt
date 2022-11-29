@@ -1,0 +1,15 @@
+Test File	Test Method	Assertion	English Conversion
+RegressionTest0	test01	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 91 + "'", int0 == 91)	int int 0 equals 91 is true
+RegressionTest0	test02	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 66 + "'", int0 == 66)	int int 0 equals 66 is true
+RegressionTest0	test03	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 67 + "'", int0 == 67)	int int 0 equals 67 is true
+RegressionTest0	test04	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 83 + "'", int0 == 83)	int int 0 equals 83 is true
+RegressionTest0	test05	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 70 + "'", int0 == 70)	int int 0 equals 70 is true
+RegressionTest0	test06	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 101 + "'", int0 == 101)	int int 0 equals 101 is true
+RegressionTest0	test08	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 99 + "'", int0 == 99)	int int 0 equals 99 is true
+RegressionTest0	test09	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 90 + "'", int0 == 90)	int int 0 equals 90 is true
+RegressionTest0	test12	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 64 + "'", int0 == 64)	int int 0 equals 64 is true
+RegressionTest0	test13	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 74 + "'", int0 == 74)	int int 0 equals 74 is true
+RegressionTest0	test15	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 73 + "'", int0 == 73)	int int 0 equals 73 is true
+RegressionTest0	test17	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 115 + "'", int0 == 115)	int int 0 equals 115 is true
+RegressionTest0	test18	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 68 + "'", int0 == 68)	int int 0 equals 68 is true
+RegressionTest0	test20	org.junit.Assert.assertNotNull(wildcardClass1)	class? is not null
