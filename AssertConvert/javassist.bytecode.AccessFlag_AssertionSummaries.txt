@@ -1,0 +1,56 @@
+Test File	Test Method	Assertion	English Conversion
+RegressionTest0	test01	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 4096 + "'", int0 == 4096)	int int 0 equals 4096 is true
+RegressionTest0	test02	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 4096 + "'", int1 == 4096)	int int 1 equals 4096 is true
+RegressionTest0	test03	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 1024 + "'", int0 == 1024)	int int 0 equals 1024 is true
+RegressionTest0	test04	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 128 + "'", int0 == 128)	int int 0 equals 128 is true
+RegressionTest0	test05	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 16 + "'", int0 == 16)	int int 0 equals 16 is true
+RegressionTest0	test06	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 2 + "'", int0 == 2)	int int 0 equals 2 is true
+RegressionTest0	test07	org.junit.Assert.assertTrue("'" + boolean1 + "' != '" + false + "'", boolean1 == false)	boolean 1 equals false is true
+RegressionTest0	test08	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 32 + "'", int0 == 32)	int int 0 equals 32 is true
+RegressionTest0	test09	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 512 + "'", int0 == 512)	int int 0 equals 512 is true
+RegressionTest0	test10	org.junit.Assert.assertTrue("'" + boolean1 + "' != '" + false + "'", boolean1 == false)	boolean 1 equals false is true
+RegressionTest0	test11	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 64 + "'", int0 == 64)	int int 0 equals 64 is true
+RegressionTest0	test12	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 2 + "'", int1 == 2)	int int 1 equals 2 is true
+RegressionTest0	test13	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 32768 + "'", int0 == 32768)	int int 0 equals 32768 is true
+RegressionTest0	test14	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 128 + "'", int0 == 128)	int int 0 equals 128 is true
+RegressionTest0	test15	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 132 + "'", int1 == 132)	int int 1 equals 132 is true
+RegressionTest0	test16	org.junit.Assert.assertTrue("'" + int2 + "' != '" + 0 + "'", int2 == 0)	int int 2 equals 0 is true
+RegressionTest0	test17	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 8192 + "'", int0 == 8192)	int int 0 equals 8192 is true
+RegressionTest0	test18	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 32 + "'", int0 == 32)	int int 0 equals 32 is true
+RegressionTest0	test19	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 49 + "'", int1 == 49)	int int 1 equals 49 is true
+RegressionTest0	test20	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 32 + "'", int1 == 32)	int int 1 equals 32 is true
+RegressionTest0	test21	org.junit.Assert.assertNotNull(wildcardClass1)	class? is not null
+RegressionTest0	test22	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 8 + "'", int0 == 8)	int int 0 equals 8 is true
+RegressionTest0	test23	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 98 + "'", int1 == 98)	int int 1 equals 98 is true
+RegressionTest0	test24	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 100 + "'", int1 == 100)	int int 1 equals 100 is true
+RegressionTest0	test25	org.junit.Assert.assertNotNull(wildcardClass1)	class? is not null
+RegressionTest0	test26	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 2 + "'", int1 == 2)	int int 1 equals 2 is true
+RegressionTest0	test27	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 1 + "'", int0 == 1)	int int 0 equals 1 is true
+RegressionTest0	test28	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 97 + "'", int1 == 97)	int int 1 equals 97 is true
+RegressionTest0	test29	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 100 + "'", int1 == 100)	int int 1 equals 100 is true
+RegressionTest0	test30	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 2048 + "'", int0 == 2048)	int int 0 equals 2048 is true
+RegressionTest0	test31	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 16384 + "'", int0 == 16384)	int int 0 equals 16384 is true
+RegressionTest0	test32	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 36 + "'", int1 == 36)	int int 1 equals 36 is true
+RegressionTest0	test33	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 8196 + "'", int1 == 8196)	int int 1 equals 8196 is true
+RegressionTest0	test34	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 256 + "'", int0 == 256)	int int 0 equals 256 is true
+RegressionTest0	test35	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 8193 + "'", int1 == 8193)	int int 1 equals 8193 is true
+RegressionTest0	test36	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 32 + "'", int1 == 32)	int int 1 equals 32 is true
+RegressionTest0	test37	org.junit.Assert.assertTrue("'" + int1 + "' != '" + (-7) + "'", int1 == (-7))	int int 1 equals negative 7 is true
+RegressionTest0	test38	org.junit.Assert.assertTrue("'" + boolean1 + "' != '" + false + "'", boolean1 == false)	boolean 1 equals false is true
+RegressionTest0	test39	org.junit.Assert.assertTrue("'" + boolean1 + "' != '" + false + "'", boolean1 == false)	boolean 1 equals false is true
+RegressionTest0	test40	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 1028 + "'", int1 == 1028)	int int 1 equals 1028 is true
+RegressionTest0	test41	org.junit.Assert.assertTrue("'" + boolean1 + "' != '" + false + "'", boolean1 == false)	boolean 1 equals false is true
+RegressionTest0	test42	org.junit.Assert.assertTrue("'" + boolean1 + "' != '" + false + "'", boolean1 == false)	boolean 1 equals false is true
+RegressionTest0	test43	org.junit.Assert.assertTrue("'" + boolean1 + "' != '" + false + "'", boolean1 == false)	boolean 1 equals false is true
+RegressionTest0	test44	org.junit.Assert.assertTrue("'" + boolean1 + "' != '" + false + "'", boolean1 == false)	boolean 1 equals false is true
+RegressionTest0	test45	org.junit.Assert.assertTrue("'" + int2 + "' != '" + 16 + "'", int2 == 16)	int int 2 equals 16 is true
+RegressionTest0	test46	org.junit.Assert.assertTrue("'" + boolean1 + "' != '" + false + "'", boolean1 == false)	boolean 1 equals false is true
+RegressionTest0	test47	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 4 + "'", int0 == 4)	int int 0 equals 4 is true
+RegressionTest0	test48	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 16384 + "'", int1 == 16384)	int int 1 equals 16384 is true
+RegressionTest0	test49	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 2052 + "'", int1 == 2052)	int int 1 equals 2052 is true
+RegressionTest0	test50	org.junit.Assert.assertTrue("'" + int0 + "' != '" + 64 + "'", int0 == 64)	int int 0 equals 64 is true
+RegressionTest0	test51	org.junit.Assert.assertTrue("'" + int2 + "' != '" + 64 + "'", int2 == 64)	int int 2 equals 64 is true
+RegressionTest0	test53	org.junit.Assert.assertTrue("'" + boolean1 + "' != '" + true + "'", boolean1 == true)	boolean 1 equals true is true
+RegressionTest0	test54	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 16388 + "'", int1 == 16388)	int int 1 equals 16388 is true
+RegressionTest0	test55	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 35 + "'", int1 == 35)	int int 1 equals 35 is true
+RegressionTest0	test56	org.junit.Assert.assertTrue("'" + int1 + "' != '" + 1 + "'", int1 == 1)	int int 1 equals 1 is true
